@@ -1,0 +1,11 @@
+[
+  {
+    "model": "Frame 5 NL",
+    "oem": "GE Vernova",
+    "power_mw": 30,
+    "max_h2_pct": 100,
+    "efficiency_pct": 38,
+    "mono_nox_ppm": 15,
+    "retrofit_ready": true
+  }
+]
