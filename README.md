@@ -3,7 +3,7 @@
 > **Open dataset of industrial gas-turbine models capable of firing up to 100 % hydrogen, RNG or biogas.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Last Update](https://img.shields.io/github/last-commit/your-github-handle/hydrogen-blend-turbine-specs?color=brightgreen)](../../commits/main)
+[![Last Update](https://img.shields.io/github/last-commit/trixxmanaty/hydrogen-blend-turbine-specs?color=brightgreen)](../../commits/main)
 
 ---
 
